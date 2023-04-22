@@ -1,4 +1,4 @@
-## Olá! Eu sou o Ryan Nardelli. Seja Bem vindo ao meu perfil.
+## Olá, eu sou o Ryan Nardelli. Seja Bem vindo ao meu perfil!
 
 - 🐣 Atualmente estou em busca de um estágio na área de desenvolvimento de software
 - 🧑‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas
