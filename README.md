@@ -1,6 +1,5 @@
 ## Olá, eu sou o Ryan Nardelli. Seja bem-vindo ao meu perfil!
 
-- 🐣 Atualmente estou em busca de um estágio na área de desenvolvimento de software
 - 🧑‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas
 - 🧑‍💻 Estudando JavaScript
 
