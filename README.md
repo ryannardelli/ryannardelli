@@ -18,6 +18,6 @@
 ##
 
 <div>
- <a href="mailto:ryannardelli12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- <a href="https://www.linkedin.com/in/ryan-nardelli-a50905228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQDhJ9k44S1C5%2FkpbNokLWg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+ <a href="mailto:ryannardelli12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/ryan-nardelli-a50905228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQDhJ9k44S1C5%2FkpbNokLWg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
