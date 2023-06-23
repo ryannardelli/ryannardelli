@@ -1,7 +1,6 @@
 ## Olá, eu sou o Ryan Nardelli. Seja bem-vindo(a) ao meu perfil!
 
 - 🧑‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas
-- 🧑‍💻 Estudando JavaScript
 
 <div>
   <a href = "https://github.com/ryannardelli">
