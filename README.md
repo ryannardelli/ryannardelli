@@ -1,7 +1,3 @@
-## Olá, me chamo Ryan. Seja bem-vindo(a) ao meu perfil!
-
-- 🧑‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas
-
 <div>
   <a href = "https://github.com/ryannardelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryannardelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
