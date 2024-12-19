@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/200.gif?cid=6c09b952yr7s1l93b2r053wnj275y36wphptc87ldbup7vj4&ep=v1_gifs_search&rid=200.gif&ct=g" alt="Hello World GIF" />
 </div>
 
-##
+<br>
 
 <div align="center">
   <a href="https://github.com/ryannardelli">
