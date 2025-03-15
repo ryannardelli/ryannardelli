@@ -6,6 +6,7 @@ Sou um desenvolvedor de software apaixonado por criar soluções eficientes e in
 ### Tecnologias e Ferramentas
 - **Linguagens de Programação:** JavaScript, Java, Python
 - **Frameworks e Bibliotecas:** React, TypeScript, Node.js, Next.js, Spring Boot, Git, Tailwind, Bootstrap
+- - **Banco de Dados:** MySQL, SQL
 - **Ferramentas de Desenvolvimento:** Git, GitHub, IntelliJ IDEA, VS Code
 - **Outras Habilidades:** Design de Software, Arquitetura de Sistemas, Testes Automatizados
 
