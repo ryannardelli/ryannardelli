@@ -1,6 +1,13 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/200.gif?cid=6c09b952yr7s1l93b2r053wnj275y36wphptc87ldbup7vj4&ep=v1_gifs_search&rid=200.gif&ct=g" alt="Hello World GIF" />
-</div>
+## Olá, Eu Sou Ryan Nardelli! 👋
+
+### Sobre Mim
+Sou um desenvolvedor de software apaixonado por criar soluções eficientes e inovadoras. Tenho conhecimento em diversas linguagens de programação e tecnologias, e estou sempre em busca de novos desafios para aprimorar minhas habilidades. 🚀
+
+### Tecnologias e Ferramentas
+- **Linguagens de Programação:** JavaScript, Java, Python
+- **Frameworks e Bibliotecas:** React, TypeScript, Node.js, Next.js, Spring Boot, Git, Tailwind, Bootstrap
+- **Ferramentas de Desenvolvimento:** Git, GitHub, IntelliJ IDEA, VS Code
+- **Outras Habilidades:** Design de Software, Arquitetura de Sistemas, Testes Automatizados
 
 <br>
 
