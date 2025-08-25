@@ -23,7 +23,7 @@ I’ve already created several web applications and websites using modern techno
   </a>
 </div>
 
-<h3 align="center">💻 Tech Stack</h3>
+### 💻 Tech Stack
 <div align="center" style="display: inline_block"><br>
    <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -44,7 +44,7 @@ I’ve already created several web applications and websites using modern techno
 
 ##
 
-<h3 align="center">📬 Contact Me</h3>
+### 📬 Contact Me
 <div align="center">
   <a href="mailto:ryannardelli12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
