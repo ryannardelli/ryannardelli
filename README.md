@@ -6,7 +6,7 @@ Currently, I focus on **React, TypeScript, Tailwind, Java, and Spring Boot**.
 I’ve already created several web applications and websites using modern technologies, and every day I strive to improve both my **hard skills** and **soft skills**.  
 
 ### 🎓 Graduation
-- **Analysis and Development of Software**
+- **Analysis and Development of Systems**
 
 ### 🛠️ Development Tools
 - **Programming Languages:** JavaScript, Java, Python  
