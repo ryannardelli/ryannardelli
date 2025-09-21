@@ -14,6 +14,10 @@ I’ve already created several web applications and websites using modern techno
   <a href="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1759078800&v=beta&t=rjb3WwJyuJvSFkCRwX959I4qPPD-wNpB9Eam7PP-biU" target="_blank">
     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1759078800&v=beta&t=rjb3WwJyuJvSFkCRwX959I4qPPD-wNpB9Eam7PP-biU" alt="Google Cloud" height="200"/>
   </a>
+
+   <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-ae6c01c0-b417-430b-82e1-869ea9419a4c.jpg?v=1688501923000" target="_blank">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-ae6c01c0-b417-430b-82e1-869ea9419a4c.jpg?v=1688501923000" alt="Google Cloud" height="200"/>
+  </a>
 </div>
 
 ### 📚 Complementary Courses
