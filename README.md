@@ -8,6 +8,18 @@ I’ve already created several web applications and websites using modern techno
 ### 🎓 Graduation
 - **Systems Analysis and Development**
 
+### 🏆 Certifications
+
+<div>
+  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1759078800&v=beta&t=rjb3WwJyuJvSFkCRwX959I4qPPD-wNpB9Eam7PP-biU" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1759078800&v=beta&t=rjb3WwJyuJvSFkCRwX959I4qPPD-wNpB9Eam7PP-biU" alt="Google Cloud" height="100"/>
+  </a>
+  
+  <a href="https://cdn.qwiklabs.com/nh9ZSug9IYdLXUrUOvGLcpNpCfhbOrxVFnp5M0%2BlPho%3D" target="_blank">
+    <img src="https://cdn.qwiklabs.com/nh9ZSug9IYdLXUrUOvGLcpNpCfhbOrxVFnp5M0%2BlPho%3D" alt="Introdution to Image Generation" height="100"/>
+  </a>
+</div>
+
 ### 🛠️ Development Tools
 - **Programming Languages:** JavaScript, Java, Python  
 - **Libraries & Frameworks:** React, TypeScript, Node.js, Next.js, Spring Boot, Tailwind, Bootstrap  
