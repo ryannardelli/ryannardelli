@@ -16,7 +16,7 @@ I’ve already created several web applications and websites using modern techno
   </a>
 </div>
 
-### 🛠 Workshops
+### 📚 Complementary Courses
  <a href="https://cdn.qwiklabs.com/nh9ZSug9IYdLXUrUOvGLcpNpCfhbOrxVFnp5M0%2BlPho%3D" target="_blank">
     <img src="https://cdn.qwiklabs.com/nh9ZSug9IYdLXUrUOvGLcpNpCfhbOrxVFnp5M0%2BlPho%3D" alt="Introdution to Image Generation" height="200"/>
   </a>
