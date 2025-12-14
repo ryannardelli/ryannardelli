@@ -11,8 +11,8 @@ I’ve already created several web applications and websites using modern techno
 ### 🏆 Certifications
 
 <div>
-  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1759078800&v=beta&t=rjb3WwJyuJvSFkCRwX959I4qPPD-wNpB9Eam7PP-biU" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1759078800&v=beta&t=rjb3WwJyuJvSFkCRwX959I4qPPD-wNpB9Eam7PP-biU" alt="Google Cloud" height="200"/>
+  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1766293200&v=beta&t=5ZeoJx8zQ3Q1nQ_lWiRI1TzH6S-LkDqvkNx4vMxl_jI" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1766293200&v=beta&t=5ZeoJx8zQ3Q1nQ_lWiRI1TzH6S-LkDqvkNx4vMxl_jI" alt="Google Cloud" height="200"/>
   </a>
 </div>
 
