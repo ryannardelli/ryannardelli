@@ -12,17 +12,17 @@ I’ve already created several web applications and websites using modern techno
 
 <div>
   <a href="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1766293200&v=beta&t=5ZeoJx8zQ3Q1nQ_lWiRI1TzH6S-LkDqvkNx4vMxl_jI" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1766293200&v=beta&t=5ZeoJx8zQ3Q1nQ_lWiRI1TzH6S-LkDqvkNx4vMxl_jI" alt="Google Cloud" height="200"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1766293200&v=beta&t=5ZeoJx8zQ3Q1nQ_lWiRI1TzH6S-LkDqvkNx4vMxl_jI" alt="Google Cloud" height="150"/>
   </a>
 </div>
 
 ### 📚 Complementary Courses
  <a href="https://cdn.qwiklabs.com/nh9ZSug9IYdLXUrUOvGLcpNpCfhbOrxVFnp5M0%2BlPho%3D" target="_blank">
-    <img src="https://cdn.qwiklabs.com/nh9ZSug9IYdLXUrUOvGLcpNpCfhbOrxVFnp5M0%2BlPho%3D" alt="Introdution to Image Generation" height="200"/>
+    <img src="https://cdn.qwiklabs.com/nh9ZSug9IYdLXUrUOvGLcpNpCfhbOrxVFnp5M0%2BlPho%3D" alt="Introdution to Image Generation" height="150"/>
 </a>
 
 <a href="https://cdn.qwiklabs.com/licxd8JDS5%2FvJ3%2FcXDcU2Wmyj8Ii8Old17CuG49CW%2BM%3D" target="_blank">
-    <img src="https://cdn.qwiklabs.com/licxd8JDS5%2FvJ3%2FcXDcU2Wmyj8Ii8Old17CuG49CW%2BM%3D" alt="Introdution to Image Generation" height="200"/>
+    <img src="https://cdn.qwiklabs.com/licxd8JDS5%2FvJ3%2FcXDcU2Wmyj8Ii8Old17CuG49CW%2BM%3D" alt="Introdution to Image Generation" height="150"/>
 </a>
 
 ### 🛠️ Development Tools
