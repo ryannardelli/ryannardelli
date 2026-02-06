@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 I'm a passionate **Software Developer** who loves building innovative applications and solutions.  
-Currently, I focus on **React, TypeScript, Tailwind, Node.js, Java and Spring Boot**.  
+Currently, I focus on **React, Next.js, TypeScript, Tailwind, Node.js, Java and Spring Boot**.  
 I’ve already created several web applications and websites using modern technologies, and every day I strive to improve both my **hard skills** and **soft skills**.  
 
 ### 🎓 Graduation
