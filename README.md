@@ -43,7 +43,8 @@ const about = {
 
 <a href="https://cdn.qwiklabs.com/licxd8JDS5%2FvJ3%2FcXDcU2Wmyj8Ii8Old17CuG49CW%2BM%3D" target="_blank">
     <img src="https://cdn.qwiklabs.com/licxd8JDS5%2FvJ3%2FcXDcU2Wmyj8Ii8Old17CuG49CW%2BM%3D" alt="Introdution to Image Generation" height="150"/>
-</a> 
+</a>
+<br>
 
 <br>
 
