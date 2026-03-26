@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZ1JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
-
 <br>
 
 ### 🚀 About Me
@@ -19,7 +18,13 @@ const about = {
     innovation: "Developing efficient and scalable web solutions",
     growth: "Enhancing technical and interpersonal skills"
   },
-  motto: "Code, learn, and grow continuously."
+  motto: "Code, learn, and grow continuously.",
+  developmentTools: {
+    programmingLanguages: ["JavaScript", "Java", "Python"],
+    librariesAndFrameworks: ["React", "TypeScript", "Node.js", "Next.js", "Spring Boot", "Tailwind", "Bootstrap"],
+    databases: ["MySQL", "PostgreSQL", "SQL"],
+    idesAndTools: ["Git", "GitHub", "IntelliJ IDEA", "VS Code"]
+  }
 };
 ```
 
@@ -38,13 +43,7 @@ const about = {
 
 <a href="https://cdn.qwiklabs.com/licxd8JDS5%2FvJ3%2FcXDcU2Wmyj8Ii8Old17CuG49CW%2BM%3D" target="_blank">
     <img src="https://cdn.qwiklabs.com/licxd8JDS5%2FvJ3%2FcXDcU2Wmyj8Ii8Old17CuG49CW%2BM%3D" alt="Introdution to Image Generation" height="150"/>
-</a>
-
-### 🛠️ Development Tools
-- **Programming Languages:** JavaScript, Java, Python  
-- **Libraries & Frameworks:** React, TypeScript, Node.js, Next.js, Spring Boot, Tailwind, Bootstrap  
-- **Databases:** MySQL, PostgreSQL, SQL  
-- **IDEs & Tools:** Git, GitHub, IntelliJ IDEA, VS Code  
+</a> 
 
 <br>
 
