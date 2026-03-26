@@ -32,7 +32,7 @@ const about = {
 
 <div>
   <a href="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1766293200&v=beta&t=5ZeoJx8zQ3Q1nQ_lWiRI1TzH6S-LkDqvkNx4vMxl_jI" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_480_480/B4DZcnlI29GkAM-/0/1748715736995?e=1766293200&v=beta&t=5ZeoJx8zQ3Q1nQ_lWiRI1TzH6S-LkDqvkNx4vMxl_jI" alt="Google Cloud" height="150"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGIkMXOK3as_g/profile-treasury-image-shrink_800_800/B4DZcnlI29GkAY-/0/1748715736993?e=1775116800&v=beta&t=M80fvbnlp0YWHkjUkkXkZiDXFSMyTIPnNTiQhOb61MM" alt="Google Cloud" height="150"/>
   </a>
 </div>
 
