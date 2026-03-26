@@ -14,7 +14,7 @@ const about = {
   fullName: "Ícaro Ryan Vieira Nardelli",
   profession: "Full Stack Developer",
   education: "Bachelor's in Systems Analysis and Development",
-  expertise: ["React", "Next.js", "TypeScript", "Node.js", "Java", "Spring Boot"],
+  expertise: ["React", "Next.js", "TypeScript", "Node.js", "Java", "Spring Boot", "SQL"],
   interests: {
     continuousLearning: "Mastering new technologies daily",
     innovation: "Developing efficient and scalable web solutions",
