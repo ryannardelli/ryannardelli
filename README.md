@@ -14,7 +14,7 @@ const about = {
   education: "Bachelor's in Systems Analysis and Development",
   expertise: ["React", "Next.js", "TypeScript", "Node.js", "Java", "Spring Boot"],
   interests: {
-    continuousLearning: "Mastering new technologies daily 📈",
+    continuousLearning: "Mastering new technologies daily",
     innovation: "Developing efficient and scalable web solutions",
     growth: "Enhancing technical and interpersonal skills"
   },
