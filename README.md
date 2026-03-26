@@ -1,12 +1,27 @@
-## Hello, I'm Ryan! 👋
+## Hello World, I'm Ryan! 👋
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZ1JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</div>
+
+<br>
 
 ### 🚀 About Me
-I'm a passionate **Software Developer** who loves building innovative applications and solutions.  
-Currently, I focus on **React, Next.js, TypeScript, Tailwind, Node.js, Java and Spring Boot**.  
-I’ve already created several web applications and websites using modern technologies, and every day I strive to improve both my **hard skills** and **soft skills**.  
 
-### 🎓 Graduation
-- **Systems Analysis and Development**
+```javascript
+const about = {
+  fullName: "Ícaro Ryan Vieira Nardelli",
+  profession: "Software Developer",
+  education: "Bachelor's in Systems Analysis and Development",
+  expertise: ["React", "Next.js", "TypeScript", "Node.js", "Java", "Spring Boot"],
+  interests: {
+    continuousLearning: "Mastering new technologies daily 📈",
+    innovation: "Developing efficient and scalable web solutions",
+    growth: "Enhancing technical and interpersonal skills"
+  },
+  motto: "Code, learn, and grow continuously."
+};
+```
 
 ### 🏆 Certifications
 
