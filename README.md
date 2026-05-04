@@ -83,7 +83,7 @@ const about = {
 
   <br/><br/>
 
-  <h4>🛠️ Ferramentas & Banco de Dados</h4>
+  <h4>🛠️ Tools & Data Base</h4>
 
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
